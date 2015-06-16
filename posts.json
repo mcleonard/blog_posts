@@ -1,0 +1,18 @@
+{
+  "body_fat_percentage": {
+    "tags": [
+      "Python", 
+      "regression", 
+      "health"
+    ], 
+    "title": "Body Fat Percentage"
+  }, 
+  "yelp_timeline": {
+    "tags": [
+      "Python", 
+      "Gaussian process", 
+      "web scraping"
+    ], 
+    "title": "Yelp Rating Timelines"
+  }
+}
