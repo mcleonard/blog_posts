@@ -14,5 +14,13 @@
       "web scraping"
     ], 
     "title": "Yelp Rating Timelines"
+  },
+  "ab_testing_with_sampyl": {
+    "tags": [
+      "Python", 
+      "MCMC", 
+      "Sampyl"
+    ], 
+    "title": "A/B testing with Sampyl"
   }
 }
