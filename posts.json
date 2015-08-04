@@ -1,4 +1,12 @@
 {
+  "men_have_journals_women_have_diaries": {
+    "tags": [
+      "feminism",
+      "humanism"
+    ],
+    "title": "Men have journals, women have diaries"
+  },
+
   "body_fat_percentage": {
     "tags": [
       "Python", 
@@ -7,6 +15,7 @@
     ], 
     "title": "Body Fat Percentage"
   }, 
+
   "yelp_timeline": {
     "tags": [
       "Python", 
@@ -15,6 +24,7 @@
     ], 
     "title": "Yelp Rating Timelines"
   },
+  
   "ab_testing_with_sampyl": {
     "tags": [
       "Python", 
