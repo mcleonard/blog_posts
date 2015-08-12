@@ -1,4 +1,9 @@
 {
+  "github_hosting_documentation": {
+    "tags": ["Python"],
+    "title": "Hosting Sphinx documentation on GitHub"
+  },
+
   "men_have_journals_women_have_diaries": {
     "tags": [
       "feminism",
