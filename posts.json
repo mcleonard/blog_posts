@@ -1,4 +1,9 @@
 {
+ "p_values_statistical_testing": {
+    "tags": ["Python", "Statistics"],
+    "title": "Hypothesis testing and the origin of p-values"
+  },
+
   "github_hosting_documentation": {
     "tags": ["Python"],
     "title": "Hosting Sphinx documentation on GitHub"
